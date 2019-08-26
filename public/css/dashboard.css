@@ -1,0 +1,12 @@
+
+#navigation{
+  overflow-y: scroll;
+  height: 400px;
+}
+.checkBox{
+  color:white;
+}
+#navigation-header{
+  /* background-color: #313848; */
+  font-size: 30px;
+}
